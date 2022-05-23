@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+p {
+    margin: 0;
+}
+
+div {
+    margin: 2vh;
+}
+
+.title {
+    font-weight: bold;
+}
